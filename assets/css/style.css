@@ -161,3 +161,7 @@ h2 > a:hover:before {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
+
+h2 > a:visited {
+  text-decoration: none;
+}
