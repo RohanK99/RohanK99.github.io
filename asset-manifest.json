@@ -1,21 +1,22 @@
 {
-  "main.css": "static/css/main.c82ea6f5.css",
-  "main.css.map": "static/css/main.c82ea6f5.css.map",
-  "main.js": "static/js/main.4b1e069b.js",
-  "main.js.map": "static/js/main.4b1e069b.js.map",
-  "static/media/Back-Button.svg": "static/media/Back-Button.55376e34.svg",
-  "static/media/Canarie-App.svg": "static/media/Canarie-App.8750b0a9.svg",
-  "static/media/Canarie-Bold.svg": "static/media/Canarie-Bold.defde9d9.svg",
-  "static/media/Critical-Mass-App.svg": "static/media/Critical-Mass-App.68e4cbb1.svg",
-  "static/media/Critical-Mass-Bold.svg": "static/media/Critical-Mass-Bold.6cb3e1e1.svg",
-  "static/media/Fitbit-App.svg": "static/media/Fitbit-App.116e6614.svg",
-  "static/media/Fitbit-Bold.svg": "static/media/Fitbit-Bold.1679ddbf.svg",
-  "static/media/Hack-Western-App.svg": "static/media/Hack-Western-App.ddfe69b0.svg",
-  "static/media/Hack-Western-Bold.svg": "static/media/Hack-Western-Bold.7b2099c0.svg",
-  "static/media/Hack-the-North-App.svg": "static/media/Hack-the-North-App.d32cb42a.svg",
-  "static/media/Hack-the-North-Bold.svg": "static/media/Hack-the-North-Bold.6df65a65.svg",
-  "static/media/Wato-App.svg": "static/media/Wato-App.8ce6b530.svg",
-  "static/media/Wato-Bold.svg": "static/media/Wato-Bold.4642baae.svg",
-  "static/media/resume-bold.pdf": "static/media/resume-bold.13ad79d8.pdf",
-  "static/media/stratum.ttf": "static/media/stratum.09bccbfc.ttf"
+  "files": {
+    "main.css": "/static/css/main.b996bd57.chunk.css",
+    "main.js": "/static/js/main.cb3cf200.chunk.js",
+    "main.js.map": "/static/js/main.cb3cf200.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fdd9b878.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fdd9b878.js.map",
+    "static/js/2.53b104f9.chunk.js": "/static/js/2.53b104f9.chunk.js",
+    "static/js/2.53b104f9.chunk.js.map": "/static/js/2.53b104f9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9eec02f74360f2bd48f53d7e5bd07673.js": "/precache-manifest.9eec02f74360f2bd48f53d7e5bd07673.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b996bd57.chunk.css.map": "/static/css/main.b996bd57.chunk.css.map",
+    "static/media/home.css": "/static/media/stratum.09bccbfc.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdd9b878.js",
+    "static/js/2.53b104f9.chunk.js",
+    "static/css/main.b996bd57.chunk.css",
+    "static/js/main.cb3cf200.chunk.js"
+  ]
 }
